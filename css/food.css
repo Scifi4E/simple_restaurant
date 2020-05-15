@@ -1,0 +1,22 @@
+#mainfood { font-family:'Allura', cursive;
+padding-top: 12vh; 
+font-size: 10vmax;}
+
+h2 {font-family: 'Allura', cursive;
+    font-size: 15vw;}
+
+#mtitle {font-size: 20vw;}
+
+.nav {background-color: white;}
+
+.nav-link {font-weight: bolder;
+      color: black;
+      font-size:3.5vw;
+      font-family: 'Allura', cursive;
+    }
+
+h1{ color: black;
+font-family: 'Allura', cursive;
+font-size: 20vmax;
+text-align: center;
+}
